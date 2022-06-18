@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://tanveer984.github.io/csb-stsytv/static/css/main.e0717a5d.chunk.css",
+    "main.js": "https://tanveer984.github.io/csb-stsytv/static/js/main.5c4da944.chunk.js",
+    "main.js.map": "https://tanveer984.github.io/csb-stsytv/static/js/main.5c4da944.chunk.js.map",
+    "runtime-main.js": "https://tanveer984.github.io/csb-stsytv/static/js/runtime-main.9d72bd8d.js",
+    "runtime-main.js.map": "https://tanveer984.github.io/csb-stsytv/static/js/runtime-main.9d72bd8d.js.map",
+    "static/js/2.9a6f9f21.chunk.js": "https://tanveer984.github.io/csb-stsytv/static/js/2.9a6f9f21.chunk.js",
+    "static/js/2.9a6f9f21.chunk.js.map": "https://tanveer984.github.io/csb-stsytv/static/js/2.9a6f9f21.chunk.js.map",
+    "index.html": "https://tanveer984.github.io/csb-stsytv/index.html",
+    "static/css/main.e0717a5d.chunk.css.map": "https://tanveer984.github.io/csb-stsytv/static/css/main.e0717a5d.chunk.css.map",
+    "static/js/2.9a6f9f21.chunk.js.LICENSE.txt": "https://tanveer984.github.io/csb-stsytv/static/js/2.9a6f9f21.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d72bd8d.js",
+    "static/js/2.9a6f9f21.chunk.js",
+    "static/css/main.e0717a5d.chunk.css",
+    "static/js/main.5c4da944.chunk.js"
+  ]
+}

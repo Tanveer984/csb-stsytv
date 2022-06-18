@@ -1,0 +1,2 @@
+.App{font-family:sans-serif;text-align:center}.navbar{display:flex;justify-content:space-between}.lnav,.rnav{margin:5px}.lnav a{padding:7px;text-decoration:none}.rnav img{width:45px;margin-top:-10px}.grid{display:grid;grid-template-columns:repeat(3,1fr);grid-template-rows:auto;grid-gap:24px}.grid>div{box-shadow:0 1px 4px rgba(0,0,0,.16),0 0 0 3px #333}.grid>div>img{width:100px}
+/*# sourceMappingURL=main.e0717a5d.chunk.css.map */
